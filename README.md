@@ -41,3 +41,7 @@ Clusterização de clientes de acordo com perfil
 * NumCatalogPurchases: Number of purchases made using a catalogue
 * NumStorePurchases: Number of purchases made directly in stores
 * NumWebVisitsMonth: Number of visits to company’s website in the last month
+
+
+
+https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/data
